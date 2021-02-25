@@ -1,7 +1,7 @@
-server:
-  profiles:
-    active: dev
----
+#server:
+  #profiles:
+   # active: dev
+# ---
 spring:
   profiles: dev
   application:
